@@ -1,0 +1,70 @@
+@media (max-width: 1000px) {
+    .phones-card {
+        width: 100%;
+        display: block;
+    }
+
+    .phones {
+        height: 250vh;
+    }
+
+    .advantages-card {
+        width: 90%;
+        display: block;
+        margin: auto;
+    }
+    
+    .differences-content {
+        width: 100%;
+        
+    }
+
+    .header-content {
+        width: 90%;
+    }
+
+    .header {
+        background: url("img/header-img.png") center/130% no-repeat;
+    }
+
+    .materials-card {
+        display: block;
+        width: 100%;
+    }
+
+    .materials-card-title {
+        margin-top: 20px;
+    }
+
+    .security-bg {
+        background: url("img/6th-section.jpeg") center/100% no-repeat;
+    }
+
+    .iphone {
+        background: url("img/6th-section.png") center/180% no-repeat;
+    }
+
+    .security-content {
+        width: 50%;
+    }
+
+    .iphone-content {
+        width: 100%;
+        text-align: center;
+        transform: translateX(0);
+    }
+
+    .iphone-title {
+        font-size: 50px;
+    }
+
+    .footer-card {
+        width: 100%;
+        display: block;
+    }
+
+    .up-button {
+        font-size: 50px;
+    }
+
+}
