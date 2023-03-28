@@ -1,0 +1,91 @@
+@media (max-width: 1000px) {
+    .container {
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .phones-card {
+        width: 100%;
+        display: block;
+    }
+
+    .phones-img:hover {
+        transform: skew(0);
+    }
+
+    .advantages-card {
+        width: 90%;
+        display: block;
+        margin: auto;
+    }
+    
+    .differences-content,  .differences-container {
+        width: 100%;
+        
+    }
+
+    .differenses-title {
+        font-size: 40px;
+    }
+
+    .header-content {
+        width: 90%;
+    }
+
+    .header-title {
+        font-size: 50px;
+    }
+
+    .header {
+        background: url("img/header-img.png") bottom/130% no-repeat;
+        background-attachment: scroll;
+    }
+
+    .materials {
+        background-attachment: scroll;
+        padding-left: 20px;
+    }
+
+    .materials-card {
+        display: block;
+        width: 100%;
+    }
+
+    .materials-card-title {
+        margin-top: 20px;
+    }
+
+    .security-bg {
+        width: 100%;
+        display: block;
+    }
+
+    .security-content {
+        width: 100%;
+        display: block;
+        margin-right: 0;
+    }
+
+    .iphone {
+        background: url("img/6th-section.png") center/180% no-repeat;
+    }
+    .iphone-content {
+        width: 100%;
+        text-align: center;
+        transform: translateX(0);
+    }
+
+    .iphone-title {
+        font-size: 50px;
+    }
+
+    .footer-card {
+        width: 100%;
+        display: block;
+    }
+
+    .up-button {
+        font-size: 50px;
+    }
+
+}
